@@ -1,11 +1,10 @@
 package algorithm;
 
-public class problem190913_3 {
+public class Problem190913_1 {
 
-	// 기본
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.print("Hello\nWorld");
+		System.out.print("Hello World");
 	}
 
 }
