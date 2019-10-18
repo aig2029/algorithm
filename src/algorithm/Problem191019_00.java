@@ -6,6 +6,5 @@ public class Problem191019_00 {
 		// TODO Auto-generated method stub
 		
 	}
-
-
+	
 }
