@@ -32,7 +32,7 @@ public class Problem191102_06 {
 //			System.out.println(str);
 			for(int j=1; j<=sero; j++) {
 				map[i][j] = str.substring(j-1, j);
-//				System.out.print(map[i][j]);
+				System.out.print(map[i][j]);
 			}
 //			System.out.println();
 		}
