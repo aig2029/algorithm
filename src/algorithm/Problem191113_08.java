@@ -8,7 +8,7 @@ public class Problem191113_08 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-	}
+	}//
 	
 	public int solution(String[] lines) {
 		int answer = 0;
