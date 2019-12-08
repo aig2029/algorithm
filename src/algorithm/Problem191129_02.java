@@ -29,7 +29,7 @@ public class Problem191129_02 {
 		}
 		
 		Arrays.sort(gr, Collections.reverseOrder());
-		
+		//
 		int sw=0;
 		int pre=-1;
 		int accum=1;
