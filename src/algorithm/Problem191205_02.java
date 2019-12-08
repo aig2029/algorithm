@@ -40,7 +40,7 @@ public class Problem191205_02 {
 //	INNER JOIN animal_outs o
 //	ON i.animal_id = o.animal_id
 //	WHERE i.SEX_UPON_INTAKE != o.SEX_UPON_OUTCOME
-//	ORDER BY i.animal_id
+//	ORDER BY i.animal_id //
 
 	
 }
