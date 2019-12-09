@@ -8,7 +8,7 @@ public class Problem191207_05 {
 	}
 
 	
-
+////
 	
 	public int solution(int N) {
 		// write your code in Java SE 8
