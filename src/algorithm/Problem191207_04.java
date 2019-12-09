@@ -7,7 +7,7 @@ public class Problem191207_04 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-	}
+	}//
 	
 	static final int STUDENT_NUM = 3;
 	static int[] student1_guessPattern = { 1, 2, 3, 4, 5 };
