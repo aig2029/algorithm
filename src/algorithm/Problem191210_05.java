@@ -6,7 +6,7 @@ public class Problem191210_05 {
 		// TODO Auto-generated method stub
 		
 	}
-	
+	//
 	public int solution(int X, int[] A) {
 		// write your code in Java SE 8
 
