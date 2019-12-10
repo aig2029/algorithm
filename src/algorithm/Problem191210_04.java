@@ -17,7 +17,7 @@ public class Problem191210_04 {
 			if (comparativeValue++ != A[i])
 				return 0;
 
-		}
+		}//
 
 		return 1;
 	}
